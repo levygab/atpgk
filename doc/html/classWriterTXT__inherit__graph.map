@@ -1,0 +1,4 @@
+<map id="WriterTXT" name="WriterTXT">
+<area shape="rect" id="node1" title="Class representing a file writer for json format." alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node2" href="$classWriter.html" title="Abstract base class representing a generic file writer." alt="" coords="17,5,80,32"/>
+</map>

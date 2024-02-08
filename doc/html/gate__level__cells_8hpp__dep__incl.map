@@ -1,0 +1,6 @@
+<map id="include/gate_level_cells.hpp" name="include/gate_level_cells.hpp">
+<area shape="rect" id="node1" title="Contains definitions of cell types." alt="" coords="85,5,227,47"/>
+<area shape="rect" id="node2" href="$json__parser_8hpp.html" title="Define a parser for gate&#45;level JSON files using nlohmann/json." alt="" coords="69,95,243,121"/>
+<area shape="rect" id="node3" href="$json__parser_8cpp.html" title=" " alt="" coords="5,169,152,196"/>
+<area shape="rect" id="node4" href="$reader_8cpp.html" title=" " alt="" coords="177,169,290,196"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="include/json_parser.hpp" name="include/json_parser.hpp">
+<area shape="rect" id="node1" title="Define a parser for gate&#45;level JSON files using nlohmann/json." alt="" coords="140,5,315,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,68,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="93,80,143,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="168,80,223,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="319,155,378,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="298,80,445,107"/>
+<area shape="rect" id="node7" href="$gate__level__cells_8hpp.html" title="Contains definitions of cell types." alt="" coords="469,80,623,107"/>
+<area shape="rect" id="node8" title=" " alt="" coords="431,155,546,181"/>
+<area shape="rect" id="node9" title=" " alt="" coords="571,155,636,181"/>
+</map>

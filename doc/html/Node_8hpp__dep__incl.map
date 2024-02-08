@@ -1,0 +1,38 @@
+<map id="include/tree/Node.hpp" name="include/tree/Node.hpp">
+<area shape="rect" id="node1" title="Definition of the Node class, which serves as a base class for various types of nodes in a circuit." alt="" coords="1022,5,1188,32"/>
+<area shape="rect" id="node2" href="$FaultDecorator_8cpp.html" title=" " alt="" coords="530,80,726,107"/>
+<area shape="rect" id="node3" href="$Node_8cpp.html" title=" " alt="" coords="750,80,886,107"/>
+<area shape="rect" id="node4" href="$fault__API_8hpp.html" title="Define functions related to fault computation and error generation." alt="" coords="1041,423,1206,464"/>
+<area shape="rect" id="node9" href="$Cell_8hpp.html" title="Definition of the generic Cell class." alt="" coords="911,80,1067,107"/>
+<area shape="rect" id="node25" href="$Input_8hpp.html" title="Definition of the Input class." alt="" coords="1158,251,1322,278"/>
+<area shape="rect" id="node27" href="$Output_8hpp.html" title="Definition of the Output class." alt="" coords="1395,251,1570,278"/>
+<area shape="rect" id="node29" href="$Tree_8hpp.html" title="Definition of the Tree class, representing a tree structure for a circuit at the gate level." alt="" coords="1723,251,1882,278"/>
+<area shape="rect" id="node5" href="$fault__API_8cpp.html" title=" " alt="" coords="1055,512,1192,553"/>
+<area shape="rect" id="node6" href="$atpg__top_8hpp.html" title="Define the top class that contains the circuit model and call method to process it and generate test ..." alt="" coords="1702,512,1865,553"/>
+<area shape="rect" id="node7" href="$atpg__top_8cpp.html" title=" " alt="" coords="1688,601,1879,628"/>
+<area shape="rect" id="node8" href="$main_8cpp.html" title=" " alt="" coords="1543,601,1648,628"/>
+<area shape="rect" id="node10" href="$Cell_8cpp.html" title=" " alt="" coords="926,162,1052,189"/>
+<area shape="rect" id="node11" href="$YosysCell_8hpp.html" title="Definition of the YosysCell class." alt="" coords="637,155,776,196"/>
+<area shape="rect" id="node12" href="$YosysCell_8cpp.html" title=" " alt="" coords="702,251,905,278"/>
+<area shape="rect" id="node13" href="$BinaryCell_8hpp.html" title="Definition of the BinaryCell class and all the sub&#45;classes that inherits from it." alt="" coords="929,244,1068,285"/>
+<area shape="rect" id="node19" href="$ComplexCell_8hpp.html" title="Definition of the ComplexCell class and all the sub&#45;classes that inherits from it." alt="" coords="157,244,296,285"/>
+<area shape="rect" id="node21" href="$FlipFlop_8hpp.html" title="Definition of the FlipFlop class." alt="" coords="540,244,678,285"/>
+<area shape="rect" id="node23" href="$UnaryCell_8hpp.html" title="Definition of the UnaryCell class and all the sub&#45;classes that inherits from it." alt="" coords="377,244,516,285"/>
+<area shape="rect" id="node14" href="$BinaryCell_8cpp.html" title=" " alt="" coords="800,341,1010,367"/>
+<area shape="rect" id="node15" href="$builder__API_8hpp.html" title="Define a builder with an API that can be called to create a circuit model." alt="" coords="1186,333,1333,375"/>
+<area shape="rect" id="node16" href="$builder__API_8cpp.html" title=" " alt="" coords="1507,423,1674,464"/>
+<area shape="rect" id="node17" href="$reader_8hpp.html" title="Define a reader that call a parser and then build a circuit&#45;model using a builder API." alt="" coords="1295,430,1483,457"/>
+<area shape="rect" id="node18" href="$reader_8cpp.html" title=" " alt="" coords="1310,519,1468,546"/>
+<area shape="rect" id="node20" href="$ComplexCell_8cpp.html" title=" " alt="" coords="50,341,275,367"/>
+<area shape="rect" id="node22" href="$FlipFlop_8cpp.html" title=" " alt="" coords="581,341,776,367"/>
+<area shape="rect" id="node24" href="$UnaryCell_8cpp.html" title=" " alt="" coords="350,341,556,367"/>
+<area shape="rect" id="node26" href="$Input_8cpp.html" title=" " alt="" coords="1358,341,1492,367"/>
+<area shape="rect" id="node28" href="$Output_8cpp.html" title=" " alt="" coords="1568,341,1714,367"/>
+<area shape="rect" id="node30" href="$Tree_8cpp.html" title=" " alt="" coords="1790,341,1919,367"/>
+<area shape="rect" id="node31" href="$writer_8hpp.html" title="Definition of the Writer class." alt="" coords="2076,341,2256,367"/>
+<area shape="rect" id="node32" href="$writer_8cpp.html" title=" " alt="" coords="2131,430,2282,457"/>
+<area shape="rect" id="node33" href="$writer__json_8hpp.html" title="Definition of a Writer class for .json output files." alt="" coords="1954,423,2107,464"/>
+<area shape="rect" id="node35" href="$writer__txt_8hpp.html" title="Definition of a Writer class for .txt files." alt="" coords="2306,423,2459,464"/>
+<area shape="rect" id="node34" href="$writer__json_8cpp.html" title=" " alt="" coords="1937,519,2124,546"/>
+<area shape="rect" id="node36" href="$writer__txt_8cpp.html" title=" " alt="" coords="2294,519,2471,546"/>
+</map>

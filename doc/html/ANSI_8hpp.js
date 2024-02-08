@@ -1,0 +1,27 @@
+var ANSI_8hpp =
+[
+    [ "BLACK_BG", "ANSI_8hpp.html#a1b2908ca807de5685ed5deb1823591e7", null ],
+    [ "BLACK_TEXT", "ANSI_8hpp.html#aa8716c5a8fe75c169f85f841cf886e2d", null ],
+    [ "BLINK_TEXT", "ANSI_8hpp.html#a12f3c68ac14c3a0da4a5a69c433c3b92", null ],
+    [ "BLUE_BG", "ANSI_8hpp.html#a8d37e3505fe25c847bfd6aa1e4530b59", null ],
+    [ "BLUE_TEXT", "ANSI_8hpp.html#a523653b137c1298fa4014e26488bee76", null ],
+    [ "BOLD_TEXT", "ANSI_8hpp.html#a50d7a37d746ed9699002e288b6dff8c4", null ],
+    [ "CYAN_BG", "ANSI_8hpp.html#acd25d4a7ddf8634f87c92345445cd70c", null ],
+    [ "CYAN_TEXT", "ANSI_8hpp.html#aae276f658ffe000aaf9d7dacb15f3009", null ],
+    [ "DIM_TEXT", "ANSI_8hpp.html#acbe8d88d4a54bee0bd406d7502ec44af", null ],
+    [ "GREEN_BG", "ANSI_8hpp.html#a0a004077b5a51ea120d37c7137e7132f", null ],
+    [ "GREEN_TEXT", "ANSI_8hpp.html#aaad9cb092d673eb55addd81bdc69f532", null ],
+    [ "HIDDEN_TEXT", "ANSI_8hpp.html#af3d36ec3ca1397a705722119121625dd", null ],
+    [ "MAGENTA_BG", "ANSI_8hpp.html#a6361e51f0f36d222687ae3208f0b0d98", null ],
+    [ "MAGENTA_TEXT", "ANSI_8hpp.html#ae841e02c40ae502e3e72c0c02c006ff7", null ],
+    [ "ORANGE_TEXT", "ANSI_8hpp.html#a9ff9d46c0e7ff13b7b6d6267404df407", null ],
+    [ "RED_BG", "ANSI_8hpp.html#af9530a4ab1350a85fba3d8935ec6b06c", null ],
+    [ "RED_TEXT", "ANSI_8hpp.html#ac6b49286f191080eef7f1891a32b6596", null ],
+    [ "RESET_TEXT", "ANSI_8hpp.html#a038ea114ff75076e05108db5158bef66", null ],
+    [ "REVERSE_TEXT", "ANSI_8hpp.html#a330b61ffc4edd569b6257a9ec42611ec", null ],
+    [ "UNDERLINE_TEXT", "ANSI_8hpp.html#a7afe0113fd37780d82b7921694b3e4c3", null ],
+    [ "WHITE_BG", "ANSI_8hpp.html#aafff58a009c4aad2fc7ed9545f8efa15", null ],
+    [ "WHITE_TEXT", "ANSI_8hpp.html#aea19743fab227a2e9877bc45c5d52f40", null ],
+    [ "YELLOW_BG", "ANSI_8hpp.html#ad0535b2c6f99fe1ab71437d7e5a59b44", null ],
+    [ "YELLOW_TEXT", "ANSI_8hpp.html#a4b117bf78d42386fd744ff9db8c0e9e5", null ]
+];

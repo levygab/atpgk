@@ -1,0 +1,44 @@
+{
+    "global": {
+        "standard_usage": "Standard usage: ./ATPGK [--ext <input_extension_type>] <input_filename>\nShort usage (JSON only) : ./ATPGK <input_filename>\nYou can specify the input file name without the '--file' option at the end on the command-line",
+        "option_message": "To see all the supported options : ./ATPGK --help",
+        "unknown_option": "Unknown option",
+        "version": "ATPGK v1.0",
+        "header_message": "\n    =================================================================\n    | ATPGK - Automated Test Pattern Generation Kernel              |\n    | Copyright (C) 2023-2024  Hugo Brisset & Gabriel Levy          |\n    |                                                               |\n    | ATPGK is a free automated test pattern generator for          |\n    | integrated circuit                                            |\n    |                                                               |\n    | This program comes with ABSOLUTELY NO WARRANTY;               |\n    | This is free software, and you are welcome to redistribute it |\n    | under certain conditions; use '--license' for details.        |\n    =================================================================\n",
+        "kernel_init": "Initializing the kernel with options ...",
+        "kernel_init_success": "Kernel successfully initialized",
+        "parsing": "Parsing input file ...",
+        "parsing_success": "Input file successfully parsed",
+        "tree_building": "Building internal tree structure ...",
+        "tree_building_success": "Internal tree structure successfully created",
+        "tree_decoration": "Decorating the internal tree structure with the fault model ...",
+        "tree_decoration_success": "Internal tree structure successfully decorated",
+        "vector_generation": "Generating the test vectors ...",
+        "vector_generation_success": "Test vectors successfully generated",
+        "vector_writing": "Writing the output vector file ...",
+        "vector_writing_success": "Output vector file successfully writen",
+        "cov_stat_generation": "Generating the coverage statistics ...",
+        "cov_stat_generation_success": "Coverage statistics successfully generated",
+        "cov_writing": "Writing the coverage statistics ...",
+        "cov_writing_success": "Coverage statistics successfully writen",
+        "programm_success": "\n\nPROGRAM EXECUTED SUCCESSFULLY\n"
+    },
+    "options": {
+        "help": "Produce help message and quit",
+        "version": "Print current version of the program and quit",
+        "ext": "Specify the extension type of the input file",
+        "netlist": "Specify the name of the input file to process",
+        "license": "Print terms and conditions of the software license and quit",
+        "output": "Specify the name of the output file that contains the test vectors",
+        "output_type": "Specify the extension type of the output file that contains the test vectors",
+        "coverage": "Specify the name of the output fault coverage file",
+        "cov_type": "Specify the extension type of the output fault coverage file",
+        "output_dir_path": "Specify the path for the output directory"
+    },
+    "errors": {
+        "license_file_opening": "Error opening license file"
+    },
+    "warnings": {
+        "multi_module_def": "Using a multi-module design as input is likely to result in undefined ATPGK software behavior (blackbox)"
+    }
+}

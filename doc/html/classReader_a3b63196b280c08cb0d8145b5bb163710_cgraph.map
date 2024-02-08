@@ -1,0 +1,9 @@
+<map id="Reader::read" name="Reader::read">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,111,61"/>
+<area shape="rect" id="node2" href="$namespaceBuilderAPI.html#aa3c6b395c7c99a5969b1fc6fcbfd6976" title="Binds a cell to the tree by specifying the parent and child nodes and the connecting port." alt="" coords="175,5,330,32"/>
+<area shape="rect" id="node3" href="$namespaceBuilderAPI.html#a41c5e8108088f9281cfa82651fb86ea8" title="Creates and adds a node to the specified tree with the given identifier and type." alt="" coords="159,57,347,98"/>
+<area shape="rect" id="node4" href="$namespaceBuilderAPI.html#a537934a9a9c6f5b70fb5075561f01639" title="Adds a node to the specified tree." alt="" coords="395,39,591,65"/>
+<area shape="rect" id="node7" href="$namespaceBuilderAPI.html#acefb3a84a73136c415fa0ded01d18bd1" title="Creates a new cell with the specified identifier and type." alt="" coords="397,89,589,116"/>
+<area shape="rect" id="node5" href="$namespaceBuilderAPI.html#a1a449bda14a411a0a023583d6cf38eec" title="Adds an input node to the specified tree." alt="" coords="645,13,839,40"/>
+<area shape="rect" id="node6" href="$namespaceBuilderAPI.html#a7c26fa07c88598e0e5171ad1e219503e" title=" " alt="" coords="639,64,845,91"/>
+</map>

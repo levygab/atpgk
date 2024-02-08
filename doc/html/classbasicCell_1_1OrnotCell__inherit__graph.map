@@ -1,0 +1,5 @@
+<map id="basicCell::OrnotCell" name="basicCell::OrnotCell">
+<area shape="rect" id="node1" title="Class representing an ORNOT logic cell." alt="" coords="5,155,156,181"/>
+<area shape="rect" id="node2" href="$classCell.html" title="Class that represents a cell in the circuit." alt="" coords="57,80,104,107"/>
+<area shape="rect" id="node3" href="$classNode.html" title="Class that represents a node." alt="" coords="53,5,109,32"/>
+</map>

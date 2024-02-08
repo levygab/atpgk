@@ -1,0 +1,5 @@
+<map id="FaultAPI::generate_vector_error" name="FaultAPI::generate_vector_error">
+<area shape="rect" id="node1" title="Generates error vectors for a list of faults in the circuit model." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$namespaceFaultAPI.html#a6d2e9baee2ff82be7444ec072c126d6e" title="Gets error vectors for a node based on a specific fault." alt="" coords="193,5,344,47"/>
+<area shape="rect" id="node3" href="$namespaceFaultAPI.html#ac2448c3649a44eb944de0aaa289539e1" title="Computes the value of a node based on input vectors." alt="" coords="392,13,567,39"/>
+</map>

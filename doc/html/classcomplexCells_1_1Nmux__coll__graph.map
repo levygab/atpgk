@@ -1,0 +1,5 @@
+<map id="complexCells::Nmux" name="complexCells::Nmux">
+<area shape="rect" id="node1" title="Represents a 2:1 Multiplexer logic gate with an inverted output." alt="" coords="5,155,163,181"/>
+<area shape="rect" id="node2" href="$classCell.html" title="Class that represents a cell in the circuit." alt="" coords="61,80,107,107"/>
+<area shape="rect" id="node3" href="$classNode.html" title="Class that represents a node." alt="" coords="56,5,112,32"/>
+</map>

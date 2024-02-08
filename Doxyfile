@@ -1,0 +1,66 @@
+# Doxyfile for ATPGK
+
+# Project information
+PROJECT_NAME           = "ATPGK"
+PROJECT_NUMBER         = 1.0
+PROJECT_BRIEF          = "Open-source ATPG for electronical circuit test"
+PROJECT_LOGO           = "resources/doc/logo.png"
+OUTPUT_DIRECTORY       = ./doc   # Output directory for the generated documentation
+
+# Input source files and directories
+INPUT                  = ./src ./include ./resources/doc/mainpage.md	# Path to your source code directory
+RECURSIVE              = YES
+
+USE_MDFILE_AS_MAINPAGE = "resources/doc/mainpage.md"
+
+# Documentation options
+GENERATE_HTML          = YES   # Generate HTML output
+GENERATE_LATEX         = NO    # Generate LaTeX output
+GENERATE_XML           = NO    # Generate XML output
+
+# Comments in the code
+JAVADOC_AUTOBRIEF      = YES   # Automatically generate brief descriptions from comments
+
+# Include all public and private members in the documentation
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+
+# Output formats
+HTML_OUTPUT            = html  # Output directory for HTML documentation
+HTML_FILE_EXTENSION    = .html
+# HTML_HEADER            = header.html  # Custom HTML header content
+# HTML_FOOTER            = footer.html  # Custom HTML footer content
+
+# Markdown support
+MARKDOWN_SUPPORT       = YES
+AUTOLINK_SUPPORT       = YES
+
+# Source code browser
+SOURCE_BROWSER         = YES
+
+# Doxygen will only consider C and C++ files for documentation
+FILE_PATTERNS          = *.c *.cc *.cpp *.h *.hpp
+
+# Image files
+IMAGE_PATH             = ./resources/doc/images
+
+# Example path
+EXAMPLE_PATH           = ./resources/doc/examples
+
+# Set to NO to exclude undocumented members from the documentation
+HIDE_UNDOC_MEMBERS     = NO
+
+# Doxygen warning options
+WARN_IF_UNDOCUMENTED   = YES
+WARN_IF_DOC_ERROR      = YES
+
+# Settings for graph generation
+HAVE_DOT             = YES
+COLLABORATION_GRAPH  = YES
+HIDE_UNDOC_RELATIONS = YES
+CALL_GRAPH = YES
+CALLER_GRAPH = YES
+
+
+GENERATE_TREEVIEW = YES

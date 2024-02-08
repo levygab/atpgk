@@ -1,0 +1,13 @@
+# Read the Verilog files
+read_verilog ./Combinatory_circuits/Verilog/comb_2_modules.v
+
+# Flatten the design
+hierarchy -check -top NandGate
+synth
+flatten
+
+# Optimize the design
+opt
+
+# Convert the design to gate-level netlist
+write_json ./Combinatory_circuits/JSON_Netlist/comb_2_modules.json

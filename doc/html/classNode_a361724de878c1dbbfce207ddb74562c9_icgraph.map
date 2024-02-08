@@ -1,0 +1,4 @@
+<map id="Node::getSharedPtrToThis" name="Node::getSharedPtrToThis">
+<area shape="rect" id="node1" title="Virtual function to get a shared pointer to this node." alt="" coords="160,5,349,32"/>
+<area shape="rect" id="node2" href="$classNode.html#a5865073ac4a74c958e79b167315c3b98" title="Accepts a visitor to perform operations on this node." alt="" coords="5,5,112,32"/>
+</map>

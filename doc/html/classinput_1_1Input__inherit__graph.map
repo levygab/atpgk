@@ -1,0 +1,4 @@
+<map id="input::Input" name="input::Input">
+<area shape="rect" id="node1" title=" " alt="" coords="5,80,101,107"/>
+<area shape="rect" id="node2" href="$classNode.html" title="Class that represents a node." alt="" coords="25,5,81,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="basicCell::BufCell" name="basicCell::BufCell">
+<area shape="rect" id="node1" title="Class representing a buffer cell." alt="" coords="5,155,141,181"/>
+<area shape="rect" id="node2" href="$classCell.html" title="Class that represents a cell in the circuit." alt="" coords="50,80,97,107"/>
+<area shape="rect" id="node3" href="$classNode.html" title="Class that represents a node." alt="" coords="45,5,101,32"/>
+</map>

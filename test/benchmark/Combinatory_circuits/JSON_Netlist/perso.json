@@ -1,0 +1,330 @@
+{
+  "creator": "Yosys 0.9 (git sha1 1979e0b)",
+  "modules": {
+    "comb_2_outputs": {
+      "attributes": {
+        "top": 1,
+        "src": "perso.v:1"
+      },
+      "ports": {
+        "a": {
+          "direction": "input",
+          "bits": [ 2 ]
+        },
+        "b": {
+          "direction": "input",
+          "bits": [ 3 ]
+        },
+        "c": {
+          "direction": "input",
+          "bits": [ 4 ]
+        },
+        "d": {
+          "direction": "input",
+          "bits": [ 5 ]
+        },
+        "e": {
+          "direction": "input",
+          "bits": [ 6 ]
+        },
+        "f": {
+          "direction": "input",
+          "bits": [ 7 ]
+        },
+        "s1": {
+          "direction": "output",
+          "bits": [ 8 ]
+        },
+        "s2": {
+          "direction": "output",
+          "bits": [ 9 ]
+        }
+      },
+      "cells": {
+        "$techmap\\and_gate1.$abc$59$auto$blifparse.cc:371:parse_blif$60": {
+          "hide_name": 1,
+          "type": "$_AND_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 3 ],
+            "B": [ 2 ],
+            "Y": [ 10 ]
+          }
+        },
+        "$techmap\\and_gate2.$abc$59$auto$blifparse.cc:371:parse_blif$60": {
+          "hide_name": 1,
+          "type": "$_AND_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 4 ],
+            "B": [ 3 ],
+            "Y": [ 11 ]
+          }
+        },
+        "$techmap\\and_not_gate.$abc$61$auto$blifparse.cc:371:parse_blif$62": {
+          "hide_name": 1,
+          "type": "$_ANDNOT_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 10 ],
+            "B": [ 11 ],
+            "Y": [ 8 ]
+          }
+        },
+        "$techmap\\oai3_gate.$abc$63$auto$blifparse.cc:371:parse_blif$64": {
+          "hide_name": 1,
+          "type": "$_OAI3_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "C": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 5 ],
+            "B": [ 4 ],
+            "C": [ 6 ],
+            "Y": [ 12 ]
+          }
+        },
+        "$techmap\\or_gate.$abc$65$auto$blifparse.cc:371:parse_blif$66": {
+          "hide_name": 1,
+          "type": "$_OR_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 7 ],
+            "B": [ 12 ],
+            "Y": [ 9 ]
+          }
+        }
+      },
+      "netnames": {
+        "AndNotInput1": {
+          "hide_name": 0,
+          "bits": [ 10 ],
+          "attributes": {
+            "src": "perso.v:2"
+          }
+        },
+        "AndNotInput2": {
+          "hide_name": 0,
+          "bits": [ 11 ],
+          "attributes": {
+            "src": "perso.v:3"
+          }
+        },
+        "a": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        },
+        "and_gate1.A": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "perso.v:2|perso.v:10"
+          }
+        },
+        "and_gate1.B": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "perso.v:2|perso.v:10"
+          }
+        },
+        "and_gate1.Y": {
+          "hide_name": 0,
+          "bits": [ 10 ],
+          "attributes": {
+            "src": "perso.v:2|perso.v:11"
+          }
+        },
+        "and_gate2.A": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "perso.v:3|perso.v:10"
+          }
+        },
+        "and_gate2.B": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "perso.v:3|perso.v:10"
+          }
+        },
+        "and_gate2.Y": {
+          "hide_name": 0,
+          "bits": [ 11 ],
+          "attributes": {
+            "src": "perso.v:3|perso.v:11"
+          }
+        },
+        "and_not_gate.x": {
+          "hide_name": 0,
+          "bits": [ 10 ],
+          "attributes": {
+            "src": "perso.v:4|perso.v:16"
+          }
+        },
+        "and_not_gate.y": {
+          "hide_name": 0,
+          "bits": [ 11 ],
+          "attributes": {
+            "src": "perso.v:4|perso.v:16"
+          }
+        },
+        "and_not_gate.z": {
+          "hide_name": 0,
+          "bits": [ 8 ],
+          "attributes": {
+            "src": "perso.v:4|perso.v:17"
+          }
+        },
+        "b": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        },
+        "c": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        },
+        "d": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        },
+        "e": {
+          "hide_name": 0,
+          "bits": [ 6 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        },
+        "f": {
+          "hide_name": 0,
+          "bits": [ 7 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        },
+        "oai3_gate.A": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "perso.v:5|perso.v:22"
+          }
+        },
+        "oai3_gate.B": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "perso.v:5|perso.v:22"
+          }
+        },
+        "oai3_gate.C": {
+          "hide_name": 0,
+          "bits": [ 6 ],
+          "attributes": {
+            "src": "perso.v:5|perso.v:22"
+          }
+        },
+        "oai3_gate.Y": {
+          "hide_name": 0,
+          "bits": [ 12 ],
+          "attributes": {
+            "src": "perso.v:5|perso.v:23"
+          }
+        },
+        "orInput1": {
+          "hide_name": 0,
+          "bits": [ 12 ],
+          "attributes": {
+            "src": "perso.v:5"
+          }
+        },
+        "or_gate.x": {
+          "hide_name": 0,
+          "bits": [ 12 ],
+          "attributes": {
+            "src": "perso.v:6|perso.v:28"
+          }
+        },
+        "or_gate.y": {
+          "hide_name": 0,
+          "bits": [ 7 ],
+          "attributes": {
+            "src": "perso.v:6|perso.v:28"
+          }
+        },
+        "or_gate.z": {
+          "hide_name": 0,
+          "bits": [ 9 ],
+          "attributes": {
+            "src": "perso.v:6|perso.v:29"
+          }
+        },
+        "s1": {
+          "hide_name": 0,
+          "bits": [ 8 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        },
+        "s2": {
+          "hide_name": 0,
+          "bits": [ 9 ],
+          "attributes": {
+            "src": "perso.v:1"
+          }
+        }
+      }
+    }
+  }
+}

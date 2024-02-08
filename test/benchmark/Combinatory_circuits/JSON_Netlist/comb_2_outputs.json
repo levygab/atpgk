@@ -1,0 +1,231 @@
+{
+  "creator": "Yosys 0.9 (git sha1 1979e0b)",
+  "modules": {
+    "comb_2_outputs": {
+      "attributes": {
+        "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+      },
+      "ports": {
+        "a": {
+          "direction": "input",
+          "bits": [ 2 ]
+        },
+        "b": {
+          "direction": "input",
+          "bits": [ 3 ]
+        },
+        "c": {
+          "direction": "input",
+          "bits": [ 4 ]
+        },
+        "d": {
+          "direction": "input",
+          "bits": [ 5 ]
+        },
+        "e": {
+          "direction": "input",
+          "bits": [ 6 ]
+        },
+        "f": {
+          "direction": "input",
+          "bits": [ 7 ]
+        },
+        "g": {
+          "direction": "input",
+          "bits": [ 8 ]
+        },
+        "h": {
+          "direction": "input",
+          "bits": [ 9 ]
+        },
+        "i": {
+          "direction": "input",
+          "bits": [ 10 ]
+        },
+        "s1": {
+          "direction": "output",
+          "bits": [ 11 ]
+        },
+        "s3": {
+          "direction": "output",
+          "bits": [ 12 ]
+        }
+      },
+      "cells": {
+        "$abc$65$auto$blifparse.cc:371:parse_blif$66": {
+          "hide_name": 1,
+          "type": "$_OAI4_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "C": "input",
+            "D": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 5 ],
+            "B": [ 4 ],
+            "C": [ 3 ],
+            "D": [ 2 ],
+            "Y": [ 11 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$67": {
+          "hide_name": 1,
+          "type": "$_AOI4_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "C": "input",
+            "D": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 9 ],
+            "B": [ 8 ],
+            "C": [ 7 ],
+            "D": [ 6 ],
+            "Y": [ 13 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$68": {
+          "hide_name": 1,
+          "type": "$_ANDNOT_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 13 ],
+            "B": [ 10 ],
+            "Y": [ 14 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$69": {
+          "hide_name": 1,
+          "type": "$_AOI3_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "C": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 11 ],
+            "B": [ 10 ],
+            "C": [ 14 ],
+            "Y": [ 12 ]
+          }
+        }
+      },
+      "netnames": {
+        "$abc$65$new_n13_": {
+          "hide_name": 1,
+          "bits": [ 13 ],
+          "attributes": {
+          }
+        },
+        "$abc$65$new_n14_": {
+          "hide_name": 1,
+          "bits": [ 14 ],
+          "attributes": {
+          }
+        },
+        "a": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "b": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "c": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "d": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "e": {
+          "hide_name": 0,
+          "bits": [ 6 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "f": {
+          "hide_name": 0,
+          "bits": [ 7 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "g": {
+          "hide_name": 0,
+          "bits": [ 8 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "h": {
+          "hide_name": 0,
+          "bits": [ 9 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "i": {
+          "hide_name": 0,
+          "bits": [ 10 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "s1": {
+          "hide_name": 0,
+          "bits": [ 11 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        },
+        "s3": {
+          "hide_name": 0,
+          "bits": [ 12 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_outputs.v:1"
+          }
+        }
+      }
+    }
+  }
+}

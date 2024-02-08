@@ -1,0 +1,11 @@
+<map id="include/tree/Cell.hpp" name="include/tree/Cell.hpp">
+<area shape="rect" id="node1" title="Definition of the generic Cell class." alt="" coords="71,5,227,32"/>
+<area shape="rect" id="node2" href="$Node_8hpp.html" title="Definition of the Node class, which serves as a base class for various types of nodes in a circuit." alt="" coords="107,80,191,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="32,229,112,256"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,155,86,181"/>
+<area shape="rect" id="node5" title=" " alt="" coords="111,155,188,181"/>
+<area shape="rect" id="node6" href="$Fault_8hpp.html" title="Definition of the generic Fault class." alt="" coords="213,155,294,181"/>
+<area shape="rect" id="node9" href="$ANSI_8hpp.html" title="Defines ANSI escape codes for text colors, background colors, and text attributes." alt="" coords="319,155,444,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="165,229,224,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="249,229,373,256"/>
+</map>

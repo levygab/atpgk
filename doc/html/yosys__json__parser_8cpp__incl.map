@@ -1,0 +1,18 @@
+<map id="src/parser/yosys_json_parser.cpp" name="src/parser/yosys_json_parser.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="441,5,604,47"/>
+<area shape="rect" id="node2" href="$yosys__json__parser_8hpp.html" title="Definition of the YosysJSONParser class." alt="" coords="436,95,609,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,333,152,360"/>
+<area shape="rect" id="node4" href="$parser_8hpp.html" title="Definition of the Parser class." alt="" coords="477,184,568,211"/>
+<area shape="rect" id="node15" href="$yosys__gate__level__cells_8hpp.html" title="Contains definitions of cell types." alt="" coords="713,259,913,285"/>
+<area shape="rect" id="node5" href="$parsed__circuit_8hpp.html" title="Definition of the ParsedCircuit class." alt="" coords="375,259,516,285"/>
+<area shape="rect" id="node14" href="$ANSI_8hpp.html" title="Defines ANSI escape codes for text colors, background colors, and text attributes." alt="" coords="540,259,665,285"/>
+<area shape="rect" id="node6" title=" " alt="" coords="414,333,477,360"/>
+<area shape="rect" id="node7" title=" " alt="" coords="433,408,484,435"/>
+<area shape="rect" id="node8" title=" " alt="" coords="603,333,658,360"/>
+<area shape="rect" id="node9" title=" " alt="" coords="667,408,725,435"/>
+<area shape="rect" id="node10" title=" " alt="" coords="176,333,235,360"/>
+<area shape="rect" id="node11" title=" " alt="" coords="734,333,799,360"/>
+<area shape="rect" id="node12" title=" " alt="" coords="259,333,339,360"/>
+<area shape="rect" id="node13" href="$gate_8hpp.html" title="Definition of the Gate class." alt="" coords="501,333,579,360"/>
+<area shape="rect" id="node16" title=" " alt="" coords="875,333,989,360"/>
+</map>

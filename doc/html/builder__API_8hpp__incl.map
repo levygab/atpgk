@@ -1,0 +1,20 @@
+<map id="include/builder_API/builder_API.hpp" name="include/builder_API/builder_API.hpp">
+<area shape="rect" id="node1" title="Define a builder with an API that can be called to create a circuit model." alt="" coords="211,5,358,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,71,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="186,468,245,495"/>
+<area shape="rect" id="node4" title=" " alt="" coords="602,393,679,420"/>
+<area shape="rect" id="node5" href="$Tree_8hpp.html" title="Definition of the Tree class, representing a tree structure for a circuit at the gate level." alt="" coords="456,244,575,271"/>
+<area shape="rect" id="node12" href="$Input_8hpp.html" title="Definition of the Input class." alt="" coords="146,244,271,271"/>
+<area shape="rect" id="node13" href="$Output_8hpp.html" title="Definition of the Output class." alt="" coords="295,244,431,271"/>
+<area shape="rect" id="node14" href="$UnaryCell_8hpp.html" title="Definition of the UnaryCell class and all the sub&#45;classes that inherits from it." alt="" coords="323,95,519,121"/>
+<area shape="rect" id="node17" href="$BinaryCell_8hpp.html" title="Definition of the BinaryCell class and all the sub&#45;classes that inherits from it." alt="" coords="543,95,741,121"/>
+<area shape="rect" id="node18" href="$ComplexCell_8hpp.html" title="Definition of the ComplexCell class and all the sub&#45;classes that inherits from it." alt="" coords="765,95,980,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="208,393,271,420"/>
+<area shape="rect" id="node7" href="$Node_8hpp.html" title="Definition of the Node class, which serves as a base class for various types of nodes in a circuit." alt="" coords="444,319,528,345"/>
+<area shape="rect" id="node8" title=" " alt="" coords="525,468,605,495"/>
+<area shape="rect" id="node9" href="$Fault_8hpp.html" title="Definition of the generic Fault class." alt="" coords="445,393,527,420"/>
+<area shape="rect" id="node11" href="$ANSI_8hpp.html" title="Defines ANSI escape codes for text colors, background colors, and text attributes." alt="" coords="295,393,421,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="376,468,500,495"/>
+<area shape="rect" id="node15" href="$YosysCell_8hpp.html" title="Definition of the YosysCell class." alt="" coords="587,169,697,196"/>
+<area shape="rect" id="node16" href="$Cell_8hpp.html" title="Definition of the generic Cell class." alt="" coords="599,244,685,271"/>
+</map>

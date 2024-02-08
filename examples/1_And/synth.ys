@@ -1,0 +1,5 @@
+read_verilog HDL.v
+synth
+flatten
+opt
+write_json netlist.json

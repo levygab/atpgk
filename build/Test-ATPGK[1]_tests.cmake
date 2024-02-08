@@ -1,0 +1,7 @@
+add_test( YosysJSONParser.GateDefinitionErrorTest /home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build/Test-ATPGK [==[--gtest_filter=YosysJSONParser.GateDefinitionErrorTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( YosysJSONParser.GateDefinitionErrorTest PROPERTIES WORKING_DIRECTORY /home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( YosysJSONParser.PortDefinitionError /home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build/Test-ATPGK [==[--gtest_filter=YosysJSONParser.PortDefinitionError]==] --gtest_also_run_disabled_tests)
+set_tests_properties( YosysJSONParser.PortDefinitionError PROPERTIES WORKING_DIRECTORY /home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( YosysJSONParser.ParsingTest /home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build/Test-ATPGK [==[--gtest_filter=YosysJSONParser.ParsingTest]==] --gtest_also_run_disabled_tests)
+set_tests_properties( YosysJSONParser.ParsingTest PROPERTIES WORKING_DIRECTORY /home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( Test-ATPGK_TESTS YosysJSONParser.GateDefinitionErrorTest YosysJSONParser.PortDefinitionError YosysJSONParser.ParsingTest)

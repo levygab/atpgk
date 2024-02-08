@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libPARSER_JSON.so -o libPARSER_JSON.so CMakeFiles/PARSER_JSON.dir/src/parser/gate.cpp.o CMakeFiles/PARSER_JSON.dir/src/parser/parsed_circuit.cpp.o CMakeFiles/PARSER_JSON.dir/src/parser/parser.cpp.o CMakeFiles/PARSER_JSON.dir/src/parser/yosys_json_parser.cpp.o 

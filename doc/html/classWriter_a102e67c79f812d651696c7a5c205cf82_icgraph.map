@@ -1,0 +1,12 @@
+<map id="Writer::addLineToFile" name="Writer::addLineToFile">
+<area shape="rect" id="node1" title="Method to add a line to the file." alt="" coords="477,208,636,235"/>
+<area shape="rect" id="node2" href="$classWriterJSON.html#ab92308f699888e2b4a05040f55ff105b" title="Add end of file &#39;}&#39; char." alt="" coords="258,5,407,32"/>
+<area shape="rect" id="node3" href="$classWriterJSON.html#ac25f07867517e4cc378bc86c1a1febda" title="Write the vectors in the output file." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node4" href="$classWriterJSON.html#a7de5149129e0b7504ed33b3eac79039f" title="Format the output file." alt="" coords="248,107,417,133"/>
+<area shape="rect" id="node5" href="$classWriterTXT.html#a5537981f72ab4957efd1e258ff59e9cd" title="Format the output file." alt="" coords="252,157,413,184"/>
+<area shape="rect" id="node6" href="$classWriterJSON.html#a56c61a8d23224156e4fcff0fc59e04a7" title="Write the coverage statistics in the dedicated file." alt="" coords="236,208,429,235"/>
+<area shape="rect" id="node7" href="$classWriterTXT.html#a15fd1059b380eceab8eb52961fa90a96" title="Write the coverage statistics in the dedicated file." alt="" coords="240,259,425,285"/>
+<area shape="rect" id="node8" href="$classWriterJSON.html#ab5c460f2ee73d77b4555bc2216466f54" title="Write the input and output ports in the file." alt="" coords="245,309,420,336"/>
+<area shape="rect" id="node9" href="$classWriterTXT.html#abe9b8f84a0db802145e8590701dad7ca" title="Write the input and output ports in the file." alt="" coords="249,360,416,387"/>
+<area shape="rect" id="node10" href="$classWriterTXT.html#aa6cad579d654e2de790fdfa9694d89a0" title="Write the vectors in the output file." alt="" coords="245,411,420,437"/>
+</map>

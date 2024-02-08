@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libWRITER_JSON.so -o libWRITER_JSON.so CMakeFiles/WRITER_JSON.dir/src/writer/writer.cpp.o CMakeFiles/WRITER_JSON.dir/src/writer/writer_json.cpp.o 

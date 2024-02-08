@@ -1,0 +1,10 @@
+<map id="ATPGTop::read" name="ATPGTop::read">
+<area shape="rect" id="node1" title="Call the reader to create the circuit model from the input file." alt="" coords="5,35,120,61"/>
+<area shape="rect" id="node2" href="$classReader.html#a3b63196b280c08cb0d8145b5bb163710" title=" " alt="" coords="168,35,273,61"/>
+<area shape="rect" id="node3" href="$namespaceBuilderAPI.html#aa3c6b395c7c99a5969b1fc6fcbfd6976" title="Binds a cell to the tree by specifying the parent and child nodes and the connecting port." alt="" coords="338,5,493,32"/>
+<area shape="rect" id="node4" href="$namespaceBuilderAPI.html#a41c5e8108088f9281cfa82651fb86ea8" title="Creates and adds a node to the specified tree with the given identifier and type." alt="" coords="321,57,509,98"/>
+<area shape="rect" id="node5" href="$namespaceBuilderAPI.html#a537934a9a9c6f5b70fb5075561f01639" title="Adds a node to the specified tree." alt="" coords="557,39,753,65"/>
+<area shape="rect" id="node8" href="$namespaceBuilderAPI.html#acefb3a84a73136c415fa0ded01d18bd1" title="Creates a new cell with the specified identifier and type." alt="" coords="559,89,751,116"/>
+<area shape="rect" id="node6" href="$namespaceBuilderAPI.html#a1a449bda14a411a0a023583d6cf38eec" title="Adds an input node to the specified tree." alt="" coords="807,13,1002,40"/>
+<area shape="rect" id="node7" href="$namespaceBuilderAPI.html#a7c26fa07c88598e0e5171ad1e219503e" title=" " alt="" coords="801,64,1008,91"/>
+</map>

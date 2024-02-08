@@ -1,0 +1,13 @@
+<map id="include/tree/Yosys/UnaryCell.hpp" name="include/tree/Yosys/UnaryCell.hpp">
+<area shape="rect" id="node1" title="Definition of the UnaryCell class and all the sub&#45;classes that inherits from it." alt="" coords="80,5,219,47"/>
+<area shape="rect" id="node2" href="$YosysCell_8hpp.html" title="Definition of the YosysCell class." alt="" coords="94,95,205,121"/>
+<area shape="rect" id="node3" href="$Cell_8hpp.html" title="Definition of the generic Cell class." alt="" coords="106,169,193,196"/>
+<area shape="rect" id="node4" href="$Node_8hpp.html" title="Definition of the Node class, which serves as a base class for various types of nodes in a circuit." alt="" coords="107,244,191,271"/>
+<area shape="rect" id="node5" title=" " alt="" coords="32,393,112,420"/>
+<area shape="rect" id="node6" title=" " alt="" coords="23,319,86,345"/>
+<area shape="rect" id="node7" title=" " alt="" coords="111,319,188,345"/>
+<area shape="rect" id="node8" href="$Fault_8hpp.html" title="Definition of the generic Fault class." alt="" coords="213,319,294,345"/>
+<area shape="rect" id="node11" href="$ANSI_8hpp.html" title="Defines ANSI escape codes for text colors, background colors, and text attributes." alt="" coords="319,319,444,345"/>
+<area shape="rect" id="node9" title=" " alt="" coords="165,393,224,420"/>
+<area shape="rect" id="node10" title=" " alt="" coords="249,393,373,420"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WriterJSON::writeCovStats" name="WriterJSON::writeCovStats">
+<area shape="rect" id="node1" title="Write the coverage statistics in the dedicated file." alt="" coords="5,31,199,57"/>
+<area shape="rect" id="node2" href="$classWriter.html#a102e67c79f812d651696c7a5c205cf82" title="Method to add a line to the file." alt="" coords="260,5,419,32"/>
+<area shape="rect" id="node3" href="$namespaceFaultModel.html#a052a8799a372903d762d62ca1e6889cb" title="Get the Fault Alias." alt="" coords="247,56,432,83"/>
+</map>

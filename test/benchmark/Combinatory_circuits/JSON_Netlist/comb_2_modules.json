@@ -1,0 +1,126 @@
+{
+  "creator": "Yosys 0.9 (git sha1 1979e0b)",
+  "modules": {
+    "NandGate": {
+      "attributes": {
+        "top": 1,
+        "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:1"
+      },
+      "ports": {
+        "x": {
+          "direction": "input",
+          "bits": [ 2 ]
+        },
+        "y": {
+          "direction": "input",
+          "bits": [ 3 ]
+        },
+        "z": {
+          "direction": "output",
+          "bits": [ 4 ]
+        }
+      },
+      "cells": {
+        "$techmap\\and_gate.$abc$49$auto$blifparse.cc:371:parse_blif$50": {
+          "hide_name": 1,
+          "type": "$_AND_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 3 ],
+            "B": [ 2 ],
+            "Y": [ 5 ]
+          }
+        },
+        "$techmap\\not_gate.$abc$52$auto$blifparse.cc:371:parse_blif$53": {
+          "hide_name": 1,
+          "type": "$_NOT_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 5 ],
+            "Y": [ 4 ]
+          }
+        }
+      },
+      "netnames": {
+        "and_gate.A": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:2|./Combinatory_circuits/Verilog/comb_2_modules.v:9"
+          }
+        },
+        "and_gate.B": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:2|./Combinatory_circuits/Verilog/comb_2_modules.v:9"
+          }
+        },
+        "and_gate.Y": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:2|./Combinatory_circuits/Verilog/comb_2_modules.v:10"
+          }
+        },
+        "and_output": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:5"
+          }
+        },
+        "not_gate.C": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:3|./Combinatory_circuits/Verilog/comb_2_modules.v:15"
+          }
+        },
+        "not_gate.W": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:3|./Combinatory_circuits/Verilog/comb_2_modules.v:16"
+          }
+        },
+        "x": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:1"
+          }
+        },
+        "y": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:1"
+          }
+        },
+        "z": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "./Combinatory_circuits/Verilog/comb_2_modules.v:1"
+          }
+        }
+      }
+    }
+  }
+}

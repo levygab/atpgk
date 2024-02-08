@@ -1,0 +1,5 @@
+<map id="FaultModel::getFaultAlias" name="FaultModel::getFaultAlias">
+<area shape="rect" id="node1" title="Get the Fault Alias." alt="" coords="247,31,432,57"/>
+<area shape="rect" id="node2" href="$classWriterJSON.html#a56c61a8d23224156e4fcff0fc59e04a7" title="Write the coverage statistics in the dedicated file." alt="" coords="5,5,199,32"/>
+<area shape="rect" id="node3" href="$classWriterTXT.html#a15fd1059b380eceab8eb52961fa90a96" title="Write the coverage statistics in the dedicated file." alt="" coords="9,56,195,83"/>
+</map>

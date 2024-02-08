@@ -1,0 +1,462 @@
+Start testing: Nov 21 12:16 CET
+----------------------------------------------------------
+1/17 Testing: AndCellTest.ComputeValue
+1/17 Test: AndCellTest.ComputeValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=AndCellTest.ComputeValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"AndCellTest.ComputeValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = AndCellTest.ComputeValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AndCellTest
+[ RUN      ] AndCellTest.ComputeValue
+[       OK ] AndCellTest.ComputeValue (0 ms)
+[----------] 1 test from AndCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AndCellTest.ComputeValue" end time: Nov 21 12:16 CET
+"AndCellTest.ComputeValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/17 Testing: OrCellTest.ComputeValueUsingReceiveValue
+2/17 Test: OrCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=OrCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"OrCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = OrCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from OrCellTest
+[ RUN      ] OrCellTest.ComputeValueUsingReceiveValue
+[       OK ] OrCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from OrCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"OrCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"OrCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/17 Testing: BufCellTest.ComputeValueUsingReceiveValue
+3/17 Test: BufCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=BufCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"BufCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = BufCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BufCellTest
+[ RUN      ] BufCellTest.ComputeValueUsingReceiveValue
+[       OK ] BufCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from BufCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BufCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"BufCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/17 Testing: NotCellTest.ComputeValueUsingReceiveValue
+4/17 Test: NotCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=NotCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"NotCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = NotCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NotCellTest
+[ RUN      ] NotCellTest.ComputeValueUsingReceiveValue
+[       OK ] NotCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from NotCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NotCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"NotCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/17 Testing: NorCellTest.ComputeValueUsingReceiveValue
+5/17 Test: NorCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=NorCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"NorCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = NorCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NorCellTest
+[ RUN      ] NorCellTest.ComputeValueUsingReceiveValue
+[       OK ] NorCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from NorCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NorCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"NorCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/17 Testing: NandCellTest.ComputeValueUsingReceiveValue
+6/17 Test: NandCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=NandCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"NandCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = NandCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NandCellTest
+[ RUN      ] NandCellTest.ComputeValueUsingReceiveValue
+[       OK ] NandCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from NandCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NandCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"NandCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/17 Testing: XorCellTest.ComputeValueUsingReceiveValue
+7/17 Test: XorCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=XorCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"XorCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = XorCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from XorCellTest
+[ RUN      ] XorCellTest.ComputeValueUsingReceiveValue
+[       OK ] XorCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from XorCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"XorCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"XorCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/17 Testing: XnorCellTest.ComputeValueUsingReceiveValue
+8/17 Test: XnorCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=XnorCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"XnorCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = XnorCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from XnorCellTest
+[ RUN      ] XnorCellTest.ComputeValueUsingReceiveValue
+[       OK ] XnorCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from XnorCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"XnorCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"XnorCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/17 Testing: OrnotCellTest.ComputeValueUsingReceiveValue
+9/17 Test: OrnotCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=OrnotCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"OrnotCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = OrnotCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from OrnotCellTest
+[ RUN      ] OrnotCellTest.ComputeValueUsingReceiveValue
+[       OK ] OrnotCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from OrnotCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"OrnotCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"OrnotCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/17 Testing: AndnotCellTest.ComputeValueUsingReceiveValue
+10/17 Test: AndnotCellTest.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=AndnotCellTest.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"AndnotCellTest.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = AndnotCellTest.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AndnotCellTest
+[ RUN      ] AndnotCellTest.ComputeValueUsingReceiveValue
+[       OK ] AndnotCellTest.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from AndnotCellTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AndnotCellTest.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"AndnotCellTest.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/17 Testing: AOI3.ComputeValueUsingReceiveValue
+11/17 Test: AOI3.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=AOI3.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"AOI3.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = AOI3.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AOI3
+[ RUN      ] AOI3.ComputeValueUsingReceiveValue
+[       OK ] AOI3.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from AOI3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AOI3.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"AOI3.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/17 Testing: OAI3.ComputeValueUsingReceiveValue
+12/17 Test: OAI3.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=OAI3.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"OAI3.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = OAI3.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from OAI3
+[ RUN      ] OAI3.ComputeValueUsingReceiveValue
+[       OK ] OAI3.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from OAI3 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"OAI3.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"OAI3.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/17 Testing: AOI4.ComputeValueUsingReceiveValue
+13/17 Test: AOI4.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=AOI4.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"AOI4.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = AOI4.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AOI4
+[ RUN      ] AOI4.ComputeValueUsingReceiveValue
+[       OK ] AOI4.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from AOI4 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AOI4.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"AOI4.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/17 Testing: OAI4.ComputeValueUsingReceiveValue
+14/17 Test: OAI4.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=OAI4.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"OAI4.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = OAI4.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from OAI4
+[ RUN      ] OAI4.ComputeValueUsingReceiveValue
+[       OK ] OAI4.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from OAI4 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"OAI4.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"OAI4.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/17 Testing: Mux.ComputeValueUsingReceiveValue
+15/17 Test: Mux.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=Mux.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"Mux.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = Mux.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Mux
+[ RUN      ] Mux.ComputeValueUsingReceiveValue
+[       OK ] Mux.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from Mux (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Mux.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"Mux.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/17 Testing: Nmux.ComputeValueUsingReceiveValue
+16/17 Test: Nmux.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=Nmux.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"Nmux.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = Nmux.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Nmux
+[ RUN      ] Nmux.ComputeValueUsingReceiveValue
+[       OK ] Nmux.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from Nmux (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Nmux.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"Nmux.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/17 Testing: Mux4.ComputeValueUsingReceiveValue
+17/17 Test: Mux4.ComputeValueUsingReceiveValue
+Command: "/home/gabriel/3A/ATPG/atpg_git/build/Test-ATPGK" "--gtest_filter=Mux4.ComputeValueUsingReceiveValue" "--gtest_also_run_disabled_tests"
+Directory: /home/gabriel/3A/ATPG/atpg_git/build
+"Mux4.ComputeValueUsingReceiveValue" start time: Nov 21 12:16 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/gabriel/.conan2/p/b/gtest7955c06c06766/b/src/googletest/src/gtest_main.cc
+Note: Google Test filter = Mux4.ComputeValueUsingReceiveValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Mux4
+[ RUN      ] Mux4.ComputeValueUsingReceiveValue
+[       OK ] Mux4.ComputeValueUsingReceiveValue (0 ms)
+[----------] 1 test from Mux4 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Mux4.ComputeValueUsingReceiveValue" end time: Nov 21 12:16 CET
+"Mux4.ComputeValueUsingReceiveValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 21 12:16 CET

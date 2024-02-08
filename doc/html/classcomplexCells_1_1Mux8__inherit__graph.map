@@ -1,0 +1,5 @@
+<map id="complexCells::Mux8" name="complexCells::Mux8">
+<area shape="rect" id="node1" title="Represents an 8&#45;to&#45;1 multiplexer with three select lines." alt="" coords="5,155,160,181"/>
+<area shape="rect" id="node2" href="$classCell.html" title="Class that represents a cell in the circuit." alt="" coords="59,80,106,107"/>
+<area shape="rect" id="node3" href="$classNode.html" title="Class that represents a node." alt="" coords="55,5,111,32"/>
+</map>

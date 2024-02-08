@@ -1,0 +1,6 @@
+<map id="ATPGTop" name="ATPGTop">
+<area shape="rect" id="node1" title="Top level class of the ATPG." alt="" coords="39,171,117,197"/>
+<area shape="rect" id="node2" href="$classReader.html" title="Read a file and call a builder API to create the circuit model." alt="" coords="5,81,73,108"/>
+<area shape="rect" id="node3" href="$classFaultDecorator.html" title="Decorates nodes with faults for testing purposes." alt="" coords="98,81,215,108"/>
+<area shape="rect" id="node4" href="$classNodeVisitor.html" title="A generic visitor for the node class." alt="" coords="107,5,206,32"/>
+</map>

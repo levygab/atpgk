@@ -1,0 +1,18 @@
+AndCellTest.ComputeValue 8 0.000291545
+OrCellTest.ComputeValueUsingReceiveValue 7 0.000300413
+BufCellTest.ComputeValueUsingReceiveValue 7 0.000297403
+NotCellTest.ComputeValueUsingReceiveValue 7 0.000315851
+NorCellTest.ComputeValueUsingReceiveValue 5 0.00042317
+NandCellTest.ComputeValueUsingReceiveValue 7 0.00031232
+XorCellTest.ComputeValueUsingReceiveValue 5 0.00042358
+XnorCellTest.ComputeValueUsingReceiveValue 5 0.000454046
+OrnotCellTest.ComputeValueUsingReceiveValue 4 0.000590349
+AndnotCellTest.ComputeValueUsingReceiveValue 4 0.000658682
+AOI3.ComputeValueUsingReceiveValue 3 0.000885986
+OAI3.ComputeValueUsingReceiveValue 3 0.000797848
+AOI4.ComputeValueUsingReceiveValue 3 0.000734332
+OAI4.ComputeValueUsingReceiveValue 3 0.000729038
+Mux.ComputeValueUsingReceiveValue 3 0.000782794
+Nmux.ComputeValueUsingReceiveValue 3 0.000752582
+Mux4.ComputeValueUsingReceiveValue 1 0.00220506
+---

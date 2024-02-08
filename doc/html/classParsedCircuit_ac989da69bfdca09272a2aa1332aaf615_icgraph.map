@@ -1,0 +1,6 @@
+<map id="ParsedCircuit::getCircuitInfos" name="ParsedCircuit::getCircuitInfos">
+<area shape="rect" id="node1" title="Get infos about the parsed circuit." alt="" coords="424,5,603,47"/>
+<area shape="rect" id="node2" href="$classReader.html#a3b63196b280c08cb0d8145b5bb163710" title=" " alt="" coords="271,13,376,39"/>
+<area shape="rect" id="node3" href="$classATPGTop.html#a371a40f48288e8a74e4924e1fcaf3b65" title="Call the reader to create the circuit model from the input file." alt="" coords="108,13,223,39"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,39"/>
+</map>

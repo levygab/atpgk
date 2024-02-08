@@ -1,0 +1,10 @@
+<map id="include/tree/Node.hpp" name="include/tree/Node.hpp">
+<area shape="rect" id="node1" title="Definition of the Node class, which serves as a base class for various types of nodes in a circuit." alt="" coords="67,5,232,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="32,155,112,181"/>
+<area shape="rect" id="node3" title=" " alt="" coords="23,80,86,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="111,80,188,107"/>
+<area shape="rect" id="node5" href="$Fault_8hpp.html" title="Definition of the generic Fault class." alt="" coords="213,80,294,107"/>
+<area shape="rect" id="node8" href="$ANSI_8hpp.html" title="Defines ANSI escape codes for text colors, background colors, and text attributes." alt="" coords="319,80,444,107"/>
+<area shape="rect" id="node6" title=" " alt="" coords="165,155,224,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="249,155,373,181"/>
+</map>

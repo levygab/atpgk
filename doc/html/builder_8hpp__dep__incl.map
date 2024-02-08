@@ -1,0 +1,5 @@
+<map id="include/builder.hpp" name="include/builder.hpp">
+<area shape="rect" id="node1" title="Define a builder with an API that can be call to create a circuit model." alt="" coords="60,5,205,32"/>
+<area shape="rect" id="node2" href="$builder_8cpp.html" title=" " alt="" coords="5,80,121,107"/>
+<area shape="rect" id="node3" href="$reader_8cpp.html" title=" " alt="" coords="145,80,259,107"/>
+</map>

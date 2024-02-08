@@ -1,0 +1,290 @@
+{
+  "creator": "Yosys 0.9 (git sha1 1979e0b)",
+  "modules": {
+    "comb1": {
+      "attributes": {
+        "src": "HDL.v:1"
+      },
+      "ports": {
+        "a": {
+          "direction": "input",
+          "bits": [ 2 ]
+        },
+        "b": {
+          "direction": "input",
+          "bits": [ 3 ]
+        },
+        "c": {
+          "direction": "input",
+          "bits": [ 4 ]
+        },
+        "d": {
+          "direction": "input",
+          "bits": [ 5 ]
+        },
+        "e": {
+          "direction": "input",
+          "bits": [ 6 ]
+        },
+        "f": {
+          "direction": "input",
+          "bits": [ 7 ]
+        },
+        "g": {
+          "direction": "input",
+          "bits": [ 8 ]
+        },
+        "h": {
+          "direction": "input",
+          "bits": [ 9 ]
+        },
+        "i": {
+          "direction": "input",
+          "bits": [ 10 ]
+        },
+        "s3": {
+          "direction": "output",
+          "bits": [ 11 ]
+        }
+      },
+      "cells": {
+        "$abc$65$auto$blifparse.cc:371:parse_blif$66": {
+          "hide_name": 1,
+          "type": "$_AND_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 7 ],
+            "B": [ 6 ],
+            "Y": [ 12 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$67": {
+          "hide_name": 1,
+          "type": "$_AND_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 9 ],
+            "B": [ 8 ],
+            "Y": [ 13 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$68": {
+          "hide_name": 1,
+          "type": "$_OR_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 13 ],
+            "B": [ 12 ],
+            "Y": [ 14 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$69": {
+          "hide_name": 1,
+          "type": "$_OR_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 3 ],
+            "B": [ 2 ],
+            "Y": [ 15 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$70": {
+          "hide_name": 1,
+          "type": "$_NOR_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 5 ],
+            "B": [ 4 ],
+            "Y": [ 16 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$71": {
+          "hide_name": 1,
+          "type": "$_ANDNOT_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 15 ],
+            "B": [ 16 ],
+            "Y": [ 17 ]
+          }
+        },
+        "$abc$65$auto$blifparse.cc:371:parse_blif$72": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 14 ],
+            "B": [ 17 ],
+            "S": [ 10 ],
+            "Y": [ 11 ]
+          }
+        }
+      },
+      "netnames": {
+        "$abc$65$new_n11_": {
+          "hide_name": 1,
+          "bits": [ 12 ],
+          "attributes": {
+          }
+        },
+        "$abc$65$new_n12_": {
+          "hide_name": 1,
+          "bits": [ 13 ],
+          "attributes": {
+          }
+        },
+        "$abc$65$new_n13_": {
+          "hide_name": 1,
+          "bits": [ 14 ],
+          "attributes": {
+          }
+        },
+        "$abc$65$new_n14_": {
+          "hide_name": 1,
+          "bits": [ 15 ],
+          "attributes": {
+          }
+        },
+        "$abc$65$new_n15_": {
+          "hide_name": 1,
+          "bits": [ 16 ],
+          "attributes": {
+          }
+        },
+        "$abc$65$new_n16_": {
+          "hide_name": 1,
+          "bits": [ 17 ],
+          "attributes": {
+          }
+        },
+        "a": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "b": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "c": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "d": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "e": {
+          "hide_name": 0,
+          "bits": [ 6 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "f": {
+          "hide_name": 0,
+          "bits": [ 7 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "g": {
+          "hide_name": 0,
+          "bits": [ 8 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "h": {
+          "hide_name": 0,
+          "bits": [ 9 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "i": {
+          "hide_name": 0,
+          "bits": [ 10 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        },
+        "s3": {
+          "hide_name": 0,
+          "bits": [ 11 ],
+          "attributes": {
+            "src": "HDL.v:1"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+<map id="include/parser/parser.hpp" name="include/parser/parser.hpp">
+<area shape="rect" id="node1" title="Definition of the Parser class." alt="" coords="81,5,268,32"/>
+<area shape="rect" id="node2" href="$parser_8cpp.html" title=" " alt="" coords="5,87,163,114"/>
+<area shape="rect" id="node3" href="$yosys__json__parser_8hpp.html" title="Definition of the YosysJSONParser class." alt="" coords="187,80,343,121"/>
+<area shape="rect" id="node4" href="$yosys__json__parser_8cpp.html" title=" " alt="" coords="84,169,247,211"/>
+<area shape="rect" id="node5" href="$reader_8hpp.html" title="Define a reader that call a parser and then build a circuit&#45;model using a builder API." alt="" coords="271,177,459,203"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="261,348,366,375"/>
+<area shape="rect" id="node7" href="$reader_8cpp.html" title=" " alt="" coords="286,266,445,293"/>
+<area shape="rect" id="node8" href="$atpg__top_8hpp.html" title="Define the top class that contains the circuit model and call method to process it and generate test ..." alt="" coords="469,259,632,300"/>
+<area shape="rect" id="node9" href="$atpg__top_8cpp.html" title=" " alt="" coords="455,348,646,375"/>
+</map>

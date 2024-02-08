@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libWRITER_TXT.so -o libWRITER_TXT.so CMakeFiles/WRITER_TXT.dir/src/writer/writer.cpp.o CMakeFiles/WRITER_TXT.dir/src/writer/writer_txt.cpp.o 

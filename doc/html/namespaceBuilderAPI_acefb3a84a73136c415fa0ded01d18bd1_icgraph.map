@@ -1,0 +1,7 @@
+<map id="BuilderAPI::createNewCell" name="BuilderAPI::createNewCell">
+<area shape="rect" id="node1" title="Creates a new cell with the specified identifier and type." alt="" coords="660,13,852,39"/>
+<area shape="rect" id="node2" href="$namespaceBuilderAPI.html#a41c5e8108088f9281cfa82651fb86ea8" title="Creates and adds a node to the specified tree with the given identifier and type." alt="" coords="424,5,612,47"/>
+<area shape="rect" id="node3" href="$classReader.html#a3b63196b280c08cb0d8145b5bb163710" title=" " alt="" coords="271,13,376,39"/>
+<area shape="rect" id="node4" href="$classATPGTop.html#a371a40f48288e8a74e4924e1fcaf3b65" title="Call the reader to create the circuit model from the input file." alt="" coords="108,13,223,39"/>
+<area shape="rect" id="node5" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,13,60,39"/>
+</map>

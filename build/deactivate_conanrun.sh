@@ -1,0 +1,1 @@
+. "/home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build/deactivate_conanrunenv-debug-x86_64.sh"

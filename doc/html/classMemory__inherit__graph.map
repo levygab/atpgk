@@ -1,0 +1,36 @@
+<map id="Memory" name="Memory">
+<area shape="rect" id="node1" title=" " alt="" coords="109,588,185,615"/>
+<area shape="rect" id="node3" href="$classFlipFlop.html" title=" " alt="" coords="233,588,308,615"/>
+<area shape="rect" id="node2" href="$classNode.html" title="Class that represents a node." alt="" coords="5,588,61,615"/>
+<area shape="rect" id="node4" href="$classflipFlopEnable_1_1FFE.html" title=" " alt="" coords="356,107,503,133"/>
+<area shape="rect" id="node9" href="$classflipFlopReset_1_1FFrst.html" title=" " alt="" coords="356,588,503,615"/>
+<area shape="rect" id="node26" href="$classflipFlopSR_1_1FFsr.html" title=" " alt="" coords="368,1171,491,1197"/>
+<area shape="rect" id="node5" href="$classflipFlopEnable_1_1DFFE__NN.html" title=" " alt="" coords="551,5,734,32"/>
+<area shape="rect" id="node6" href="$classflipFlopEnable_1_1DFFE__NP.html" title=" " alt="" coords="552,56,733,83"/>
+<area shape="rect" id="node7" href="$classflipFlopEnable_1_1DFFE__PN.html" title=" " alt="" coords="552,107,733,133"/>
+<area shape="rect" id="node8" href="$classflipFlopEnable_1_1DFFE__PP.html" title=" " alt="" coords="553,157,732,184"/>
+<area shape="rect" id="node10" href="$classflipFlopReset_1_1DFF__NN0.html" title=" " alt="" coords="555,208,731,235"/>
+<area shape="rect" id="node11" href="$classflipFlopReset_1_1DFF__NN1.html" title=" " alt="" coords="555,259,731,285"/>
+<area shape="rect" id="node12" href="$classflipFlopReset_1_1DFF__NP0.html" title=" " alt="" coords="555,309,730,336"/>
+<area shape="rect" id="node13" href="$classflipFlopReset_1_1DFF__NP1.html" title=" " alt="" coords="555,360,730,387"/>
+<area shape="rect" id="node14" href="$classflipFlopReset_1_1DFF__PN0.html" title=" " alt="" coords="555,411,730,437"/>
+<area shape="rect" id="node15" href="$classflipFlopReset_1_1DFF__PN1.html" title=" " alt="" coords="555,461,730,488"/>
+<area shape="rect" id="node16" href="$classflipFlopReset_1_1DFF__PP0.html" title=" " alt="" coords="557,512,729,539"/>
+<area shape="rect" id="node17" href="$classflipFlopReset_1_1DFF__PP1.html" title=" " alt="" coords="557,563,729,589"/>
+<area shape="rect" id="node18" href="$classflipFlopReset_1_1SDFF__NN0.html" title=" " alt="" coords="551,613,735,640"/>
+<area shape="rect" id="node19" href="$classflipFlopReset_1_1SDFF__NN1.html" title=" " alt="" coords="551,664,735,691"/>
+<area shape="rect" id="node20" href="$classflipFlopReset_1_1SDFF__NP0.html" title=" " alt="" coords="551,715,734,741"/>
+<area shape="rect" id="node21" href="$classflipFlopReset_1_1SDFF__NP1.html" title=" " alt="" coords="551,765,734,792"/>
+<area shape="rect" id="node22" href="$classflipFlopReset_1_1SDFF__PN0.html" title=" " alt="" coords="551,816,734,843"/>
+<area shape="rect" id="node23" href="$classflipFlopReset_1_1SDFF__PN1.html" title=" " alt="" coords="551,867,734,893"/>
+<area shape="rect" id="node24" href="$classflipFlopReset_1_1SDFF__PP0.html" title=" " alt="" coords="553,917,733,944"/>
+<area shape="rect" id="node25" href="$classflipFlopReset_1_1SDFF__PP1.html" title=" " alt="" coords="553,968,733,995"/>
+<area shape="rect" id="node27" href="$classflipFlopSR_1_1DFFSR__NNN.html" title=" " alt="" coords="555,1019,730,1045"/>
+<area shape="rect" id="node28" href="$classflipFlopSR_1_1DFFSR__NNP.html" title=" " alt="" coords="557,1069,729,1096"/>
+<area shape="rect" id="node29" href="$classflipFlopSR_1_1DFFSR__NPN.html" title=" " alt="" coords="557,1120,729,1147"/>
+<area shape="rect" id="node30" href="$classflipFlopSR_1_1DFFSR__NPP.html" title=" " alt="" coords="557,1171,728,1197"/>
+<area shape="rect" id="node31" href="$classflipFlopSR_1_1DFFSR__PNN.html" title=" " alt="" coords="557,1221,729,1248"/>
+<area shape="rect" id="node32" href="$classflipFlopSR_1_1DFFSR__PNP.html" title=" " alt="" coords="557,1272,728,1299"/>
+<area shape="rect" id="node33" href="$classflipFlopSR_1_1DFFSR__PPN.html" title=" " alt="" coords="557,1323,728,1349"/>
+<area shape="rect" id="node34" href="$classflipFlopSR_1_1DFFSR__PPP.html" title=" " alt="" coords="559,1373,727,1400"/>
+</map>

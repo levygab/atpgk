@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/gabriel/Documents/ecole/3A/semestre1/ATPG/atpg_git/build/CMakePresets.json"
+    ]
+}

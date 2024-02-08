@@ -1,0 +1,44 @@
+{
+    "global": {
+        "standard_usage": "Utilisation standard : ./ATPGK [--ext <type_extension_entree>] [--file <nom_fichier_entree>]\nUtilisation courte (JSON uniquement) : ./ATPGK <nom_fichier_entree>\nVous pouvez spécifier le nom du fichier d'entrée sans l'option '--file' à la fin de la ligne de commande",
+        "option_message": "Pour voir toutes les options prises en charge : ./ATPGK --help",
+        "unknown_option": "Option inconnue",
+        "version": "ATPGK v1.0",
+        "header_message": "\n    =================================================================\n    | ATPGK - Kernel de génération de vecteurs de test automatisé   |\n    | Copyright (C) 2023-2024  Hugo Brisset & Gabriel Levy          |\n    |                                                               |\n    | ATPGK est un générateur de motifs de test automatisé et       |\n    | gratuit pour les circuits intégrés                            |\n    |                                                               |\n    | Ce programme est fourni SANS AUCUNE GARANTIE;                 |\n    | Il s'agit d'un logiciel libre et vous êtes libre de le        |\n    | redistribuer dans certaines conditions; consultez '--license' |\n    | pour plus de détails.                                         |\n    =================================================================\n",
+        "kernel_init": "Initialisation du kernel avec les options ...",
+        "kernel_init_success": "Kernel initialisé avec succès",
+        "parsing": "Analyse du fichier d'entrée ...",
+        "parsing_success": "Fichier d'entrée analysé avec succès",
+        "tree_building": "Construction de la structure interne ...",
+        "tree_building_success": "Structure interne créée avec succès",
+        "tree_decoration": "Décoration de la structure interne avec le modèle de fautes ...",
+        "tree_decoration_success": "Structure interne décorée avec succès",
+        "vector_generation": "Génération des vecteurs de test ...",
+        "vector_generation_success": "Vecteurs de test générés avec succès",
+        "vector_writing": "Ecriture du fichier de sortie contenant les vecteurs ...",
+        "vector_writing_success": "Fichier de vecteurs écrit avec succès",
+        "cov_stat_generation": "Génération des statistiques de couverture ...",
+        "cov_stat_generation_success": "Statistiques de couverture générée avec succès",
+        "cov_writing": "Ecriture des statistiques de couverture ...",
+        "cov_writing_success": "Statistiques de couverture écrites avec succès",
+        "programm_success": "\n\nPROGRAMME EXECUTE AVEC SUCCES\n"
+    },
+    "options": {
+        "help": "Produire un message d'aide et quitter",
+        "version": "Afficher la version actuelle du programme et quitter",
+        "ext": "Spécifier le type d'extension du fichier d'entrée",
+        "netlist": "Spécifier le nom du fichier d'entrée à traiter",
+        "license": "Afficher les termes et conditions de la licence du logiciel et quitter",
+        "output": "Spécifier le nom du fichier de sortie contenant les vecteurs de test",
+        "output_type": "Spécifier le type d'extension du fichier de sortie contenant les vecteurs de test",
+        "coverage": "Spécifier le nom du fichier de couverture de faute de sortie",
+        "cov_type": "Spécifier le type d'extension du fichier de couverture de faute de sortie",
+        "output_dir_path": "Spécifier le chemin du répertoir de sortie"
+    },
+    "errors": {
+        "license_file_opening": "Erreur lors de l'ouverture du fichier de licence"
+    },
+    "warnings": {
+        "multi_module_def": "L'utilisation en entrée d'un design multi-module risque probablement de résulter dans un comportement indéfini du logiciel ATPGK (blackbox)"
+    }
+}

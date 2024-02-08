@@ -1,0 +1,150 @@
+{
+  "creator": "Yosys 0.9 (git sha1 1979e0b)",
+  "modules": {
+    "Prod_one": {
+      "attributes": {
+        "top": 1,
+        "src": "Verilog/generate-1.v:1"
+      },
+      "ports": {
+        "a": {
+          "direction": "input",
+          "bits": [ 2 ]
+        },
+        "b": {
+          "direction": "input",
+          "bits": [ 3 ]
+        },
+        "c": {
+          "direction": "input",
+          "bits": [ 4 ]
+        },
+        "o1": {
+          "direction": "output",
+          "bits": [ 5 ]
+        },
+        "o2": {
+          "direction": "output",
+          "bits": [ 6 ]
+        }
+      },
+      "cells": {
+        "$techmap\\and_gate1.$abc$49$auto$blifparse.cc:371:parse_blif$50": {
+          "hide_name": 1,
+          "type": "$_AND_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 3 ],
+            "B": [ 2 ],
+            "Y": [ 5 ]
+          }
+        },
+        "$techmap\\or_gate.$abc$51$auto$blifparse.cc:371:parse_blif$52": {
+          "hide_name": 1,
+          "type": "$_OR_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 4 ],
+            "B": [ 3 ],
+            "Y": [ 6 ]
+          }
+        }
+      },
+      "netnames": {
+        "a": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:1"
+          }
+        },
+        "and_gate1.A": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:2|Verilog/generate-1.v:8"
+          }
+        },
+        "and_gate1.B": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:2|Verilog/generate-1.v:8"
+          }
+        },
+        "and_gate1.Y": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:2|Verilog/generate-1.v:9"
+          }
+        },
+        "b": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:1"
+          }
+        },
+        "c": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:1"
+          }
+        },
+        "o1": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:1"
+          }
+        },
+        "o2": {
+          "hide_name": 0,
+          "bits": [ 6 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:1"
+          }
+        },
+        "or_gate.x": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:3|Verilog/generate-1.v:14"
+          }
+        },
+        "or_gate.y": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:3|Verilog/generate-1.v:14"
+          }
+        },
+        "or_gate.z": {
+          "hide_name": 0,
+          "bits": [ 6 ],
+          "attributes": {
+            "src": "Verilog/generate-1.v:3|Verilog/generate-1.v:15"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+<map id="include/tree/FaultDecorator.hpp" name="include/tree/FaultDecorator.hpp">
+<area shape="rect" id="node1" title="Defines the FaultDecorator class, which is responsible for decorating nodes with faults for testing." alt="" coords="26,5,251,32"/>
+<area shape="rect" id="node2" href="$NodeVisitor_8hpp.html" title="Definition of the generic NodeVisitor class." alt="" coords="76,80,201,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,155,83,181"/>
+<area shape="rect" id="node4" title=" " alt="" coords="107,155,170,181"/>
+<area shape="rect" id="node5" href="$Fault_8hpp.html" title="Definition of the generic Fault class." alt="" coords="194,155,275,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="112,229,171,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="195,229,275,256"/>
+<area shape="rect" id="node8" title=" " alt="" coords="299,229,423,256"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WriterJSON::writeVectors" name="WriterJSON::writeVectors">
+<area shape="rect" id="node1" title="Write the vectors in the output file." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$classWriter.html#a102e67c79f812d651696c7a5c205cf82" title="Method to add a line to the file." alt="" coords="433,5,592,32"/>
+<area shape="rect" id="node3" href="$classWriterJSON.html#ab92308f699888e2b4a05040f55ff105b" title="Add end of file &#39;}&#39; char." alt="" coords="236,31,385,57"/>
+</map>

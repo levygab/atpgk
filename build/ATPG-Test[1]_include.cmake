@@ -1,0 +1,5 @@
+if(EXISTS "/home/gabriel/3A/ATPG/atpg_git/build/ATPG-Test[1]_tests.cmake")
+  include("/home/gabriel/3A/ATPG/atpg_git/build/ATPG-Test[1]_tests.cmake")
+else()
+  add_test(ATPG-Test_NOT_BUILT ATPG-Test_NOT_BUILT)
+endif()

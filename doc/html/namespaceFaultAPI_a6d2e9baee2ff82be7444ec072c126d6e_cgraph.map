@@ -1,0 +1,4 @@
+<map id="FaultAPI::get_vector_error" name="FaultAPI::get_vector_error">
+<area shape="rect" id="node1" title="Gets error vectors for a node based on a specific fault." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$namespaceFaultAPI.html#ac2448c3649a44eb944de0aaa289539e1" title="Computes the value of a node based on input vectors." alt="" coords="204,13,379,39"/>
+</map>

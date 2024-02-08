@@ -1,0 +1,8 @@
+<map id="testComputeExpectedValue" name="testComputeExpectedValue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,208,108"/>
+<area shape="rect" id="node2" href="$namespaceBuilderAPI.html#a1a449bda14a411a0a023583d6cf38eec" title="Adds an input node to the specified tree." alt="" coords="506,5,701,32"/>
+<area shape="rect" id="node3" href="$namespaceBuilderAPI.html#a537934a9a9c6f5b70fb5075561f01639" title="Adds a node to the specified tree." alt="" coords="256,56,452,83"/>
+<area shape="rect" id="node5" href="$namespaceBuilderAPI.html#aa3c6b395c7c99a5969b1fc6fcbfd6976" title="Binds a cell to the tree by specifying the parent and child nodes and the connecting port." alt="" coords="277,107,431,133"/>
+<area shape="rect" id="node6" href="$namespaceBuilderAPI.html#a922cc34d2981dbb78532aeac771a64fd" title="Creates a new cell with the specified identifier and type." alt="" coords="258,157,450,184"/>
+<area shape="rect" id="node4" href="$namespaceBuilderAPI.html#a7c26fa07c88598e0e5171ad1e219503e" title=" " alt="" coords="500,56,707,83"/>
+</map>

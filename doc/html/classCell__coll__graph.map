@@ -1,0 +1,4 @@
+<map id="Cell" name="Cell">
+<area shape="rect" id="node1" title="Class that represents a generic cell of the circuit." alt="" coords="10,80,57,107"/>
+<area shape="rect" id="node2" href="$classNode.html" title="Represents a generic node in a circuit." alt="" coords="5,5,61,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Node::accept" name="Node::accept">
+<area shape="rect" id="node1" title="Accepts a visitor to perform operations on this node." alt="" coords="5,31,112,57"/>
+<area shape="rect" id="node2" href="$classNode.html#a361724de878c1dbbfce207ddb74562c9" title="Virtual function to get a shared pointer to this node." alt="" coords="160,5,349,32"/>
+<area shape="rect" id="node3" href="$classNodeVisitor.html#a0c45b4d359ac12b34579ecb1c43efe3e" title="Virtual method to visit a Node." alt="" coords="187,56,322,83"/>
+</map>

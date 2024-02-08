@@ -1,0 +1,631 @@
+{
+  "creator": "Yosys 0.9 (git sha1 1979e0b)",
+  "modules": {
+    "\\$_MUX16_": {
+      "attributes": {
+        "src": "mux16.v:26"
+      },
+      "ports": {
+        "A": {
+          "direction": "input",
+          "bits": [ 2 ]
+        },
+        "B": {
+          "direction": "input",
+          "bits": [ 3 ]
+        },
+        "C": {
+          "direction": "input",
+          "bits": [ 4 ]
+        },
+        "D": {
+          "direction": "input",
+          "bits": [ 5 ]
+        },
+        "E": {
+          "direction": "input",
+          "bits": [ 6 ]
+        },
+        "F": {
+          "direction": "input",
+          "bits": [ 7 ]
+        },
+        "G": {
+          "direction": "input",
+          "bits": [ 8 ]
+        },
+        "H": {
+          "direction": "input",
+          "bits": [ 9 ]
+        },
+        "I": {
+          "direction": "input",
+          "bits": [ 10 ]
+        },
+        "J": {
+          "direction": "input",
+          "bits": [ 11 ]
+        },
+        "K": {
+          "direction": "input",
+          "bits": [ 12 ]
+        },
+        "L": {
+          "direction": "input",
+          "bits": [ 13 ]
+        },
+        "M": {
+          "direction": "input",
+          "bits": [ 14 ]
+        },
+        "N": {
+          "direction": "input",
+          "bits": [ 15 ]
+        },
+        "O": {
+          "direction": "input",
+          "bits": [ 16 ]
+        },
+        "P": {
+          "direction": "input",
+          "bits": [ 17 ]
+        },
+        "S": {
+          "direction": "input",
+          "bits": [ 18 ]
+        },
+        "T": {
+          "direction": "input",
+          "bits": [ 19 ]
+        },
+        "U": {
+          "direction": "input",
+          "bits": [ 20 ]
+        },
+        "V": {
+          "direction": "input",
+          "bits": [ 21 ]
+        },
+        "Y": {
+          "direction": "output",
+          "bits": [ 22 ]
+        }
+      },
+      "cells": {
+        "$abc$75$auto$blifparse.cc:371:parse_blif$78": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 2 ],
+            "B": [ 3 ],
+            "S": [ 18 ],
+            "Y": [ 23 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$79": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 4 ],
+            "B": [ 5 ],
+            "S": [ 18 ],
+            "Y": [ 24 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$80": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 23 ],
+            "B": [ 24 ],
+            "S": [ 19 ],
+            "Y": [ 25 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$81": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 6 ],
+            "B": [ 7 ],
+            "S": [ 18 ],
+            "Y": [ 26 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$82": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 8 ],
+            "B": [ 9 ],
+            "S": [ 18 ],
+            "Y": [ 27 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$83": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 26 ],
+            "B": [ 27 ],
+            "S": [ 19 ],
+            "Y": [ 28 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$84": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 25 ],
+            "B": [ 28 ],
+            "S": [ 20 ],
+            "Y": [ 29 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$85": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 10 ],
+            "B": [ 11 ],
+            "S": [ 18 ],
+            "Y": [ 30 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$86": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 12 ],
+            "B": [ 13 ],
+            "S": [ 18 ],
+            "Y": [ 31 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$87": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 30 ],
+            "B": [ 31 ],
+            "S": [ 19 ],
+            "Y": [ 32 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$88": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 14 ],
+            "B": [ 15 ],
+            "S": [ 18 ],
+            "Y": [ 33 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$89": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 16 ],
+            "B": [ 17 ],
+            "S": [ 18 ],
+            "Y": [ 34 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$90": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 33 ],
+            "B": [ 34 ],
+            "S": [ 19 ],
+            "Y": [ 35 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$91": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 32 ],
+            "B": [ 35 ],
+            "S": [ 20 ],
+            "Y": [ 36 ]
+          }
+        },
+        "$abc$75$auto$blifparse.cc:371:parse_blif$92": {
+          "hide_name": 1,
+          "type": "$_MUX_",
+          "parameters": {
+          },
+          "attributes": {
+          },
+          "port_directions": {
+            "A": "input",
+            "B": "input",
+            "S": "input",
+            "Y": "output"
+          },
+          "connections": {
+            "A": [ 29 ],
+            "B": [ 36 ],
+            "S": [ 21 ],
+            "Y": [ 22 ]
+          }
+        }
+      },
+      "netnames": {
+        "$abc$75$new_n24_": {
+          "hide_name": 1,
+          "bits": [ 23 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n25_": {
+          "hide_name": 1,
+          "bits": [ 24 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n26_": {
+          "hide_name": 1,
+          "bits": [ 25 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n27_": {
+          "hide_name": 1,
+          "bits": [ 26 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n28_": {
+          "hide_name": 1,
+          "bits": [ 27 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n29_": {
+          "hide_name": 1,
+          "bits": [ 28 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n30_": {
+          "hide_name": 1,
+          "bits": [ 29 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n31_": {
+          "hide_name": 1,
+          "bits": [ 30 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n32_": {
+          "hide_name": 1,
+          "bits": [ 31 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n33_": {
+          "hide_name": 1,
+          "bits": [ 32 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n34_": {
+          "hide_name": 1,
+          "bits": [ 33 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n35_": {
+          "hide_name": 1,
+          "bits": [ 34 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n36_": {
+          "hide_name": 1,
+          "bits": [ 35 ],
+          "attributes": {
+          }
+        },
+        "$abc$75$new_n37_": {
+          "hide_name": 1,
+          "bits": [ 36 ],
+          "attributes": {
+          }
+        },
+        "A": {
+          "hide_name": 0,
+          "bits": [ 2 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "B": {
+          "hide_name": 0,
+          "bits": [ 3 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "C": {
+          "hide_name": 0,
+          "bits": [ 4 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "D": {
+          "hide_name": 0,
+          "bits": [ 5 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "E": {
+          "hide_name": 0,
+          "bits": [ 6 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "F": {
+          "hide_name": 0,
+          "bits": [ 7 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "G": {
+          "hide_name": 0,
+          "bits": [ 8 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "H": {
+          "hide_name": 0,
+          "bits": [ 9 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "I": {
+          "hide_name": 0,
+          "bits": [ 10 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "J": {
+          "hide_name": 0,
+          "bits": [ 11 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "K": {
+          "hide_name": 0,
+          "bits": [ 12 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "L": {
+          "hide_name": 0,
+          "bits": [ 13 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "M": {
+          "hide_name": 0,
+          "bits": [ 14 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "N": {
+          "hide_name": 0,
+          "bits": [ 15 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "O": {
+          "hide_name": 0,
+          "bits": [ 16 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "P": {
+          "hide_name": 0,
+          "bits": [ 17 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "S": {
+          "hide_name": 0,
+          "bits": [ 18 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "T": {
+          "hide_name": 0,
+          "bits": [ 19 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "U": {
+          "hide_name": 0,
+          "bits": [ 20 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "V": {
+          "hide_name": 0,
+          "bits": [ 21 ],
+          "attributes": {
+            "src": "mux16.v:27"
+          }
+        },
+        "Y": {
+          "hide_name": 0,
+          "bits": [ 22 ],
+          "attributes": {
+            "src": "mux16.v:28"
+          }
+        }
+      }
+    }
+  }
+}

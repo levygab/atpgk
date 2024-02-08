@@ -1,0 +1,6 @@
+<map id="flipFlopSR::FFsr" name="flipFlopSR::FFsr">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,128,256"/>
+<area shape="rect" id="node2" href="$classFlipFlop.html" title=" " alt="" coords="29,155,104,181"/>
+<area shape="rect" id="node3" href="$classMemory.html" title=" " alt="" coords="29,80,105,107"/>
+<area shape="rect" id="node4" href="$classNode.html" title="Class that represents a node." alt="" coords="39,5,95,32"/>
+</map>
